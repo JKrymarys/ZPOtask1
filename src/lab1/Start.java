@@ -13,7 +13,7 @@ import lab1.Kalkulator;
  *
  * @author krymu
  */
-public class Lab1 {
+public class Start {
 
     /**
      * @param args the command line arguments
